@@ -7,3 +7,5 @@ for i in range(len(my_name)):
     c=b.replace(" ",".")
 #    username.append(c)
     print(c)
+    
+# Bu kodda olan Azərbaycanca sözlərdəki hərfləri İngilis dilinə çevirmək üçün Regex-dən istifadə et
