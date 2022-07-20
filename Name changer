@@ -1,0 +1,9 @@
+my_name = "Aghaverdi Kalantarli"
+#username = []
+
+for i in range(len(my_name)):
+    b=my_name[i].lower()
+#    print(my_name)
+    c=b.replace(" ",".")
+#    username.append(c)
+    print(c)
