@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me?
-- +994504000490
 - aghaverdikalantarli@gmail.com
 
 <!---
